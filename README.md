@@ -3,7 +3,7 @@ Hi 👋 My name is Sravya Arutla
 
 A Data Enthusiast
 ---------------
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarutlaa&label=Profile%20views&color=0e75b6&style=flat" alt="sarutlaa" /> </p>
 I am an accomplished data professional with over two years of experience as a senior data analyst at TATA ELXSI, complemented by a recent master's degree in Data Science from Indiana University Bloomington. My expertise lies in a unique blend of data engineering and analysis, where I have demonstrated proficiency in creating and maintaining Tableau dashboards, automating tasks using Python, and leveraging cloud platforms like AWS and GCP.
 
 * ✉️  You can contact me at [arutlasravya@gmail.com](mailto:arutlasravya@gmail.com )
