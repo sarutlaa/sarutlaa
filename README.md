@@ -39,7 +39,7 @@ I am an accomplished data professional with over two years of experience as a se
 <!-- Tools Section -->
 <p align="left">
   <strong>Tools:</strong>
-  <a href="TABLEAU_DASHBOARD_LINK" target="_blank" rel="noreferrer"><img src="PATH_TO_TABLEAU_ICON" width="36" height="36" alt="Tableau Dashboard" /></a>
+  <a href="[TABLEAU_DASHBOARD_LINK](https://public.tableau.com/app/profile/sravya.arutla/vizzes)" target="_blank" rel="noreferrer"><img src=["PATH_TO_TABLEAU_ICON"](https://example.com/path-to-tableau-icon.png") width="36" height="36" alt="Tableau Dashboard" /></a>
   <!-- Add other tool icons as needed -->
 </p>
 
