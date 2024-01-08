@@ -7,11 +7,12 @@ A Data Enthusiast, proficient in SQL, Python, Data Modeling and ETL processes, T
 I am an accomplished data professional with over two years of experience as a senior data analyst at TATA ELXSI, complemented by a recent master's degree in Data Science from Indiana University Bloomington. My expertise lies in a unique blend of data engineering and analysis, where I have demonstrated proficiency in Understanding and implementing Data modeling in Data Warehouses ( Bigquery, SnowflakeDB) through ETL processes, creating and maintaining Tableau dashboards for visualizations, automating tasks using Python, and leveraging cloud platforms like AWS and GCP.
 
 
-* ✉️  You can contact me at [arutlasravya@gmail.com](mailto:arutlasravya@gmail.com )
+
 * 🌱  I'm learning AWS Solutions Associate Architect and Kimballs' data modelling approaches.
 * ⚡  I am actively seeking full time roles in Data Engineering/Data Analysis domain.
 * 💬 Talk to me about **Data Engineering, Data Modeling, Data Visualizations**
 * 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1MZxTwuwH8YZI1rm_jvMImsq8h5PwlDkA/view?usp=drive_link)
+* ✉️  You can contact me at [arutlasravya@gmail.com](mailto:arutlasravya@gmail.com )
 
 
 
