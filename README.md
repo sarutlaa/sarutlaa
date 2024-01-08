@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sravya Arutla</h1>
-<h3 align="center">
-    A dedicated graduate student hailing from Indiana University Bloomington with a keen interest in the field of Data Engineering and Analysis. Eager to explore and contribute to the intersection of data management, engineering, and analytics, I am actively seeking opportunities to apply my academic knowledge and hands-on skills in real-world scenarios.
+<div align="center">
+    <h3>
+        A dedicated graduate student hailing from Indiana University Bloomington with a keen interest in the field of Data Engineering and Analysis. Eager to explore and contribute to the intersection of data management, engineering, and analytics, I am actively seeking opportunities to apply my academic knowledge and hands-on skills in real-world scenarios.
+    </h3>
 
-    As I delve deeper into this field, I am committed to staying abreast of the latest technologies and methodologies shaping the data landscape. I am particularly drawn to the challenges associated with designing scalable and efficient data pipelines, as well as the strategic implementation of analytics solutions to inform decision-making processes.
+    <h2>Professional Summary</h2>
 
-    My goal is to contribute to the ever-expanding realm of data-driven decision-making by bridging the gap between raw data and actionable insights. With a strong analytical mindset and a passion for problem-solving, I am eager to collaborate with like-minded professionals and contribute to advancements in the Data Engineering and Analytics field.
-</h3>
+    <p>
+        As I delve deeper into this field, I am committed to staying abreast of the latest technologies and methodologies shaping the data landscape. I am particularly drawn to the challenges associated with designing scalable and efficient data pipelines, as well as the strategic implementation of analytics solutions to inform decision-making processes.
+    </p>
+
+    <p>
+        My goal is to contribute to the ever-expanding realm of data-driven decision-making by bridging the gap between raw data and actionable insights. With a strong analytical mindset and a passion for problem-solving, I am eager to collaborate with like-minded professionals and contribute to advancements in the Data Engineering and Analytics field.
+    </p>
+</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarutlaa&label=Profile%20views&color=0e75b6&style=flat" alt="sarutlaa" /> </p>
