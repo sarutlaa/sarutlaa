@@ -10,7 +10,8 @@ I am an accomplished data professional with over two years of experience as a se
 * 🌱  I'm learning AWS Solutions Associate Architect and **Kimballs' data modelling approaches**
 * ⚡  I am actively seeking full time roles in Data Engineering/Data Analysis domain
 * 💬 Talk to me about **Data Engineering, Data Modeling, Data Visualizations**
-* 📄 Know about my experiences - [Resume](url)[https://drive.google.com/file/d/1MZxTwuwH8YZI1rm_jvMImsq8h5PwlDkA/view?usp=drive_link]
+* 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1MZxTwuwH8YZI1rm_jvMImsq8h5PwlDkA/view?usp=drive_link)
+
 
 
 ### Skills
