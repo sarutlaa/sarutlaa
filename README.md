@@ -24,9 +24,9 @@ I am an accomplished data professional with over two years of experience as a se
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
   <!-- Add Tableau Dashboard icon -->
-  <a href="TABLEAU_DASHBOARD_LINK" target="_blank" rel="noreferrer"><img src="PATH_TO_TABLEAU_ICON" width="36" height="36" alt="Tableau Dashboard" /></a>
+  <a href="https://www.tableau.com/learn" target="_blank" rel="noreferrer"><img src="PATH_TO_TABLEAU_ICON" width="36" height="36" alt="Tableau Dashboard" /></a>
   <!-- Add SQL Language icon -->
-  <a href="SQL_LANGUAGE_LINK" target="_blank" rel="noreferrer"><img src="PATH_TO_SQL_ICON" width="36" height="36" alt="SQL Language" /></a>
+  <a href="[SQL_LANGUAGE_LINK](https://en.wikipedia.org/wiki/SQL)" target="_blank" rel="noreferrer"><img src="PATH_TO_SQL_ICON" width="36" height="36" alt="SQL Language" /></a>
   <!-- Add other skills as needed -->
 </p>
 
