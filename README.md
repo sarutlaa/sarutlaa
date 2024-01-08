@@ -39,7 +39,7 @@ I am an accomplished data professional with over two years of experience as a se
 <p align="left">
   <strong>Tools:</strong>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="[TABLEAU_DASHBOARD_LINK](https://public.tableau.com/app/profile/sravya.arutla/vizzes)" target="_blank" rel="noreferrer"><img src=["PATH_TO_TABLEAU_ICON"](https://example.com/path-to-tableau-icon.png) width="36" height="36" alt="Tableau Dashboard" /></a>
+  <a href="[TABLEAU_DASHBOARD_LINK](https://public.tableau.com/app/profile/sravya.arutla/vizzes)" target="_blank" rel="noreferrer">< alt="Tableau Dashboard" /></a>
   <!-- Add other tool icons as needed -->
 </p>
 
