@@ -9,6 +9,9 @@ I am an accomplished data professional with over two years of experience as a se
 * ✉️  You can contact me at [arutlasravya@gmail.com](mailto:arutlasravya@gmail.com )
 * 🧠  I'm learning AWS Solutions Associate Architect
 * ⚡  I am actively seeking full time roles in Data Engineering/Data Analysis domain
+* 🌱 I’m currently learning **Kimballs' data modelling approaches**
+* 💬 Talk to me about **Data Engineering, Data Modeling, Data Visualizations**
+* 📄 Know about my experiences [https://drive.google.com/file/d/1MZxTwuwH8YZI1rm_jvMImsq8h5PwlDkA/view?usp=drive_link](https://drive.google.com/file/d/1MZxTwuwH8YZI1rm_jvMImsq8h5PwlDkA/view?usp=drive_link)
 
 
 ### Skills
@@ -45,3 +48,5 @@ I am an accomplished data professional with over two years of experience as a se
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Sravya#5718" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/https://github.com/sarutlaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sravyaarutla" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarutlaa&" alt="sarutlaa" /></p>
