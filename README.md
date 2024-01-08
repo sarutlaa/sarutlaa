@@ -1,14 +1,14 @@
 Hi 👋 My name is Sravya Arutla
 ==============================
 
-Data Enthusiast
+A Data Enthusiast
 ---------------
 
 I am an accomplished data professional with over two years of experience as a senior data analyst at TATA ELXSI, complemented by a recent master's degree in Data Science from Indiana University Bloomington. My expertise lies in a unique blend of data engineering and analysis, where I have demonstrated proficiency in creating and maintaining Tableau dashboards, automating tasks using Python, and leveraging cloud platforms like AWS and GCP.
 
-* ⚡  I am actively seeking full time roles in Data Engineering/Data Analysis domain
-* ✉️  You can contact me at [arutlasravya@gmail.com](mailto:arutlasravya@gmail.com )
-* 🧠  I'm learning AWS Solutions Associate Architect
+⚡  I am actively seeking full time roles in Data Engineering/Data Analysis domain
+✉️  You can contact me at [arutlasravya@gmail.com](mailto:arutlasravya@gmail.com )
+🧠  I'm learning AWS Solutions Associate Architect
 
 
 ### Skills
