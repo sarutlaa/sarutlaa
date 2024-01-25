@@ -4,13 +4,15 @@ Hi 👋 My name is Sravya Arutla !!
 A Data Enthusiast, proficient in SQL, Python, Data Modeling and ETL processes, Tableau.
 ---------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarutlaa&label=Profile%20views&color=0e75b6&style=flat" alt="sarutlaa" /> </p>
-I am an accomplished data professional with over two years of experience as a senior data analyst at TATA ELXSI, complemented by a recent master's degree in Data Science from Indiana University Bloomington. My expertise lies in a unique blend of data engineering and analysis, where I have demonstrated proficiency in Understanding and implementing Data modeling in Data Warehouses ( Bigquery, SnowflakeDB) through ETL processes, creating and maintaining Tableau dashboards for visualizations, automating tasks using Python, and leveraging cloud platforms like AWS and GCP.
+I bring over two years of experience as a senior data analyst at TATA ELXSI, coupled with a recent master's degree in Data Science from Indiana University Bloomington. My expertise lies in a unique combination of data engineering and analysis. I have demonstrated proficiency in implementing data modeling in Data Warehouses such as BigQuery and SnowflakeDB through ETL processes. Additionally, I have experience creating and maintaining Tableau dashboards for visualizations, automating tasks using Python, and working with cloud platforms like AWS and GCP.
+
+My skills extend to data modeling, dimension modeling, and a deep understanding of Data Warehousing concepts. I am continuously learning and staying updated on various tools to remain well-equipped with the latest data engineering technologies. I also have a strong foundation in relational databases (RDBMS) and experience with Spark.
 
 
 
 * 🌱  I'm learning AWS Solutions Associate Architect and Kimballs' data modelling approaches.
 * ⚡  I am actively seeking full time roles in Data Engineering/Data Analysis domain.
-* 💬 Talk to me about **Data Engineering, Data Modeling, Data Visualizations**
+* 💬 Talk to me about **Data Engineering, AWS, Data Visualizations**
 * 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1MZxTwuwH8YZI1rm_jvMImsq8h5PwlDkA/view?usp=drive_link)
 * ✉️  You can contact me at [arutlasravya@gmail.com](mailto:arutlasravya@gmail.com )
 
@@ -49,6 +51,4 @@ I am an accomplished data professional with over two years of experience as a se
 
 ### Socials
 
-<p align="left">  <a href="https://www.github.com/https://github.com/sarutlaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sravyaarutla" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarutlaa&" alt="sarutlaa" /></p>
+<p align="left">  <a href="https://www.github.com/https://github.com/sarutlaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sravyaarutla" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img 
