@@ -7,6 +7,7 @@ AWS Advocate. Dedicated to driving business impact through data-driven insights.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarutlaa&label=Profile%20views&color=0e75b6&style=flat" alt="sarutlaa" /> </p>
 I'm a recent graduate (December 2023) with a Master's degree in Data Science from Indiana University Bloomington. My passion lies in data engineering and analysis, which is fueled by my academic training and industry experience.
 
+
 During my studies, I gained a comprehensive understanding of distributed systems, data modeling, data mining, and data warehousing. Additionally, I actively pursued certifications to enhance my practical skillset. These include AWS Solutions Architect Associate, Certified Cloud Practitioner, Databricks Lakehouse Fundamentals, Google Data Analytics Professional Certificate, and Google Advanced Data Analytics Certificate.
 
 Previously, as a Senior Data Engineer at Tata Elxsi, I applied my knowledge to real-world projects for Comcast Xfinity. I built serverless ETL pipelines using Python, Lambda functions, and Athena SQL, enabling efficient processing of massive datasets (up to 10 million S3 entries) for real-time analysis. To further empower stakeholders, I created interactive Tableau dashboards driven by these pipelines. My work resulted in an increase in efficiency for release metrics analysis, leading to faster data-driven decision-making and an improvement in the release deployment cycle.
