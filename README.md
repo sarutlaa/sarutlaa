@@ -1,7 +1,8 @@
 Hi 👋 My name is Sravya Arutla !!
 ==============================
 
-A Data Enthusiast, proficient in SQL, Python, Data Modeling and ETL processes, Tableau.
+Data Engineer & Analytics Aficionado 🛠️
+AWS Advocate. Dedicated to driving business impact through data-driven insights.
 ---------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarutlaa&label=Profile%20views&color=0e75b6&style=flat" alt="sarutlaa" /> </p>
 I'm a recent graduate (December 2023) with a Master's degree in Data Science from Indiana University Bloomington. My passion lies in data engineering and analysis, which is fueled by my academic training and industry experience.
