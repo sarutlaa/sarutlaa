@@ -4,18 +4,21 @@ Hi 👋 My name is Sravya Arutla !!
 A Data Enthusiast, proficient in SQL, Python, Data Modeling and ETL processes, Tableau.
 ---------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarutlaa&label=Profile%20views&color=0e75b6&style=flat" alt="sarutlaa" /> </p>
-I bring over two years of experience as a senior data analyst at TATA ELXSI, coupled with a recent master's degree in Data Science from Indiana University Bloomington. My expertise lies in a unique combination of data engineering and analysis. I have demonstrated proficiency in implementing data modeling in Data Warehouses such as BigQuery and SnowflakeDB through ETL processes. Additionally, I have experience creating and maintaining Tableau dashboards for visualizations, automating tasks using Python, and working with cloud platforms like AWS and GCP.
+I'm a recent graduate (December 2023) with a Master's degree in Data Science from Indiana University Bloomington. My passion lies in data engineering and analysis, which is fueled by my academic training and industry experience.
 
-My skills extend to data modeling, dimension modeling, and a deep understanding of Data Warehousing concepts. I am continuously learning and staying updated on various tools to remain well-equipped with the latest data engineering technologies. I also have a strong foundation in relational databases (RDBMS) and experience with Spark.
+During my studies, I gained a comprehensive understanding of distributed systems, data modeling, data mining, and data warehousing. Additionally, I actively pursued certifications to enhance my practical skillset. These include AWS Solutions Architect Associate, Certified Cloud Practitioner, Databricks Lakehouse Fundamentals, Google Data Analytics Professional Certificate, and Google Advanced Data Analytics Certificate.
+
+Previously, as a Senior Data Engineer at Tata Elxsi, I applied my knowledge to real-world projects for Comcast Xfinity. I built serverless ETL pipelines using Python, Lambda functions, and Athena SQL, enabling efficient processing of massive datasets (up to 10 million S3 entries) for real-time analysis. To further empower stakeholders, I created interactive Tableau dashboards driven by these pipelines. My work resulted in an increase in efficiency for release metrics analysis, leading to faster data-driven decision-making and an improvement in the release deployment cycle.
+
+This combination of academic rigor and industry application positions me as a strong candidate for a full-time Data Engineering, Data Science, or Data Analysis role. I'm eager to leverage my skills and continuously learn new technologies to contribute to data-driven innovation. I am open to relocating as per the job requirement.
 
 
 
-* 🌱  I'm learning AWS Solutions Associate Architect and Kimballs' data modelling approaches.
+* 🌱  I'm currently learning Snowflake Database
 * ⚡  I am actively seeking full time roles in Data Engineering/Data Analysis domain.
-* 💬 Talk to me about **Data Engineering, AWS, Data Visualizations**
-* 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1MZxTwuwH8YZI1rm_jvMImsq8h5PwlDkA/view?usp=drive_link)
+* 💬  Talk to me about **Data Engineering, AWS, Data Visualizations**
+* 📄  Know about my experiences - [Sravya Arutla Resume](https://docs.google.com/document/d/1iVWIzPi8uuvwFHaRTa0xq_gzCK94VYRngUtP5q2fHNo/edit)
 * ✉️  You can contact me at [arutlasravya@gmail.com](mailto:arutlasravya@gmail.com )
-
 
 
 ### Skills
