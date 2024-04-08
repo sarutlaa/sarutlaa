@@ -16,8 +16,8 @@ This combination of academic rigor and industry application positions me as a st
 
 
 
-* 🌱  I'm currently learning Snowflake Database
-* ⚡  I am actively seeking full time roles in Data Engineering/Data Analysis domain.
+* 🌱  I'm currently Relearning PySpark with Databricks. 
+* ⚡  I am actively seeking full time roles in Data Engineering domain.
 * 💬  Talk to me about **Data Engineering, AWS, Data Visualizations**
 * 📄  Know about my experiences - [Sravya Arutla Resume](https://docs.google.com/document/d/1iVWIzPi8uuvwFHaRTa0xq_gzCK94VYRngUtP5q2fHNo/edit)
 * ✉️  You can contact me at [arutlasravya@gmail.com](mailto:arutlasravya@gmail.com )
