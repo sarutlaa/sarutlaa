@@ -5,16 +5,15 @@ Data Engineer & Analytics Aficionado 🛠️
 AWS Advocate. Dedicated to driving business impact through data-driven insights.
 ---------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarutlaa&label=Profile%20views&color=0e75b6&style=flat" alt="sarutlaa" /> </p>
-I'm a recent graduate (December 2023) with a Master's degree in Data Science from Indiana University Bloomington. My passion lies in data engineering and analysis, which is fueled by my academic training and industry experience.
+Holding a Master's degree in Data Science from Indiana University Bloomington, where I specialized in data engineering and analysis, I am passionate about leveraging my expertise to drive data innovation. My academic pursuits are complemented by robust industry experience, particularly in data architecture and visualization. I am currently engaged with Project 990, enhancing data-driven strategies for non-profits across the U.S. where, I focus on ensuring data quality and consistency,  developing robust data pipelines, and performing data migration. My work includes crafting Tableau dashboards that transform complex datasets into actionable insights.
 
+Previously, as a Senior Data Engineer at Tata Elxsi, I led the development of serverless ETL pipelines for Comcast Xfinity, managing Big Data. My efforts in automating data processes and implementing interactive downstream Tableau dashboards significantly optimized release metrics analysis, accelerating data-driven decisions and improving the release deployment cycle.
 
-During my studies, I gained a comprehensive understanding of distributed systems, data modeling, data mining, and data warehousing. Additionally, I actively pursued certifications to enhance my practical skillset. These include AWS Solutions Architect Associate, Certified Cloud Practitioner, Databricks Lakehouse Fundamentals, Google Data Analytics Professional Certificate, and Google Advanced Data Analytics Certificate.
+My academic journey has equipped me with a strong understanding of database design, data modeling, advanced data concepts, and engineering cloud computing. I have practical experience with distributed systems such as Apache Hadoop and Apache Spark, and hands-on expertise in AWS and GCP. Additionally, I have delved into data mining and applied machine learning. As an enthusiastic learner, I have pursued concepts in data warehousing (Snowflake DB, BigQuery) and dimensional modeling to ensure that my skills remain aligned with industry standards. 
 
-Previously, as a Senior Data Engineer at Tata Elxsi, I applied my knowledge to real-world projects for Comcast Xfinity. I built serverless ETL pipelines using Python, Lambda functions, and Athena SQL, enabling efficient processing of massive datasets (up to 10 million S3 entries) for real-time analysis. To further empower stakeholders, I created interactive Tableau dashboards driven by these pipelines. My work resulted in an increase in efficiency for release metrics analysis, leading to faster data-driven decision-making and an improvement in the release deployment cycle.
+I'm eager to collaborate with companies where I can apply my expertise and grow professionally.  I also look forward to refining my abilities through new challenges while actively engaging with teams that value creativity and continuous learning.
 
-This combination of academic rigor and industry application positions me as a strong candidate for a full-time Data Engineering, Data Science, or Data Analysis role. I'm eager to leverage my skills and continuously learn new technologies to contribute to data-driven innovation. I am open to relocating as per the job requirement.
-
-
+I am actively seeking a full-time role and believe in "learning, unlearning, and relearning" to stay at the forefront of this rapidly evolving field. Professionally along with my academic journey positions me well to work in the evolving data engineering and analytics domain. I am open to relocation and eager to leverage my skills in a challenging, innovative environment that encourages data-driven solutions.
 
 * 🌱  I'm currently Relearning PySpark with Databricks. 
 * ⚡  I am actively seeking full time roles in Data Engineering domain.
