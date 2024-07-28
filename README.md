@@ -16,7 +16,6 @@ I'm eager to collaborate with companies where I can apply my expertise and grow 
 * 🌱  I'm currently practise PySpark with Databricks. 
 * ⚡  I am actively seeking full time roles in Data Engineering domain.
 * 💬  Talk to me about **Data Engineering, AWS, Data Visualizations**
-* 📄  Know about my experiences - [Sravya Arutla Resume](https://drive.google.com/file/d/1Ck-SPonMrFvaOJuCJ_m1pkljcpePI38a/view?usp=sharing)
 * ✉️  You can contact me at [arutlasravya@gmail.com](mailto:arutlasravya@gmail.com )
 
 
