@@ -13,7 +13,7 @@ My academic journey has equipped me with a strong understanding of database desi
 
 I'm eager to collaborate with companies where I can apply my expertise and grow professionally.  I also look forward to refining my abilities through new challenges while actively engaging with teams that value creativity and continuous learning. I am actively seeking a full-time role and believe in "learning, unlearning, and relearning" to stay at the forefront of this rapidly evolving field. Professionally along with my academic journey positions me well to work in the evolving data engineering and analytics domain. I am open to relocation and eager to leverage my skills in a challenging, innovative environment that encourages data-driven solutions.
 
-* 🌱  I'm currently practise PySpark with Databricks. 
+* 🌱  I'm currently practising PySpark with Databricks. 
 * ⚡  I am actively seeking full time roles in Data Engineering domain.
 * 💬  Talk to me about **Data Engineering, AWS, Data Visualizations**
 * ✉️  You can contact me at [arutlasravya@gmail.com](mailto:arutlasravya@gmail.com )
